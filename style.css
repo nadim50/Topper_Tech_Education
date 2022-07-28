@@ -1,0 +1,41 @@
+.bg_color {
+    background-color: black;
+}
+
+
+
+.background_image_slider {
+    background-image: url("cover/1.png");
+    background-color: #adb1a5;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 90vh;
+    height: 90vh;
+
+}
+
+.background_image_slider1 {
+    background-image: url("cover/2.jpg");
+    background-color: #13ef3f;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 100vh;
+    height: 90vh;
+
+}
+
+.background_image_slider2 {
+    background-image: url("cover/3.jpg");
+    background-color: #13ef3f;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 100vh;
+    height: 90vh;
+
+}
